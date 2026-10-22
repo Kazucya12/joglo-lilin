@@ -1,0 +1,5 @@
+Lilin Joglo FPS v4
+- index.html       : buka ini (memuat game.js; taruh dalam satu folder)
+- game.js          : game + semua patch (bab, misi, Ratu Joglo, menu)
+- index-single.html: versi satu file, tanpa game.js (paling praktis di HP)
+- patch-v4.js      : patch saja
